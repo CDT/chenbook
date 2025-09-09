@@ -5,21 +5,20 @@ layout: home
 hero:
   name: "Chenbook"
   text: "Chen Dongtian's Knowledge Base"
-  tagline: My great project tagline
+  tagline: A site for all that I know
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /introduction
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Music
+    details: Explore musical theory, history, artists, and genres from classical to contemporary
+  - title: Coding
+    details: Programming concepts, tutorials, best practices, and technical documentation
+  - title: History
+    details: Historical events, figures, periods, and their cultural significance
+  - title: Science
+    details: Scientific discoveries, theories, and explanations across various disciplines
 ---
 

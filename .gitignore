@@ -1,2 +1,5 @@
 node_modules
-.vitepress
+
+# VitePress build artifacts (but keep config, components, and theme)
+.vitepress/cache/
+.vitepress/dist/
