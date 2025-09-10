@@ -1,27 +1,71 @@
 # Music
 
-Welcome to the Music section of ChenBook, where we explore the vast world of musical theory, history, artists, and genres.
+Welcome to the Music section of ChenBook, where we understand music, play music and create music.
 
-## 🎵 What You'll Find Here
-
-This section covers a comprehensive range of musical topics, from classical theory to contemporary genres, helping you deepen your understanding and appreciation of music.
-
-### Core Topics
-
-- **Music Theory**: Fundamentals of harmony, melody, rhythm, and musical structure
-- **Music History**: Evolution of musical styles and periods through time
-- **Artists & Composers**: Biographies and analyses of influential musicians
-- **Genres & Styles**: From classical to jazz, rock, electronic, and beyond
-- **Musical Instruments**: Understanding various instruments and their roles
-- **Composition Techniques**: How music is created and arranged
-
-### Learning Approach
-
-Each topic includes:
-- **Core Articles**: Concise explanations of key concepts
-- **Question Bank**: Thought-provoking questions to test understanding
-- **Interactive Flashcards**: Spaced repetition system for memorization
 
 ---
 
-*Content is maintained in Chinese, English, and Japanese for comprehensive learning.*
+## 🎹 Piano Improvisation Learning Roadmap (Language Approach)
+
+### 1. Foundations (Alphabet & Pronunciation)
+
+* Learn piano basics (keyboard layout, finger placement, posture).
+* Understand rhythm as “speech flow” (beats, subdivisions, clapping).
+* Learn major & minor scales (like learning alphabets & sounds).
+* Practice simple hand independence drills.
+
+---
+
+### 2. Musical Vocabulary (Words)
+
+* Learn chord shapes (major, minor, 7th chords).
+* Train chord inversions for smooth transitions.
+* Practice chord progressions (I–IV–V–I, ii–V–I, I–V–vi–IV).
+* Build an “ear–hand” connection (play by ear small melodies).
+
+---
+
+### 3. Grammar & Syntax
+
+* Learn rhythm patterns (arpeggios, comping styles, left-hand bass).
+* Explore modes (Dorian, Mixolydian, etc.) for different moods.
+* Understand functional harmony (tonic, subdominant, dominant).
+* Learn to add “sentence endings” (cadences).
+
+---
+
+### 4. Listening & Repetition (Immersion)
+
+* Listen daily to jazz, pop, classical improvisers.
+* Transcribe short motifs/licks by ear.
+* Copy and “remix” phrases into your own playing.
+* Improvise call-and-response (like speaking in dialogue).
+
+---
+
+### 5. Fluency (Speaking & Improvising)
+
+* Improvise over simple chord progressions.
+* Practice improvising melodies using pentatonic & blues scales.
+* Use left-hand comping with right-hand melody.
+* Jam with backing tracks or apps (like iReal Pro, YouTube loops).
+
+---
+
+### 6. Expanding Expression (Advanced Conversation)
+
+* Learn voice leading and chord substitutions.
+* Experiment with dynamics, phrasing, and articulation.
+* Explore styles (blues, jazz, pop ballads, classical improvisation).
+* Develop your own improvisational style.
+
+---
+
+### 7. Performance & Integration
+
+* Record your improvisations, analyze, and improve.
+* Play for friends (like testing language fluency).
+* Keep a “musical diary” — short daily improvisations.
+* Join jam sessions (real or online).
+
+---
