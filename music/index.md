@@ -5,7 +5,14 @@ Welcome to the Music section of ChenBook, where we understand music, play music 
 
 ---
 
+## Music vs Language Comparison
+
+
+First let's make a comparison between music and language.
+The twelve semitones are like the alphabet of music. Chords are built on top of this alphabet, so chords can be compared to words(A coincidence is that both chord and word end with 'ord').  Key is like the topic of the article. Modulation is like switching topics or shifting register(refer to register in grammar). Rhythm is like prosody(refer to what prosody means). Major / minor scale is a language's mood/affect/tone/emotional coloring. Different shapes of a chord is like different/accents forms of a word. For example, root-position C is the neutral pronounciation, a wide, open-voiced C is stretching the word for emphasis and a tight cluster or close-voiced one is like a clipped or whispered pronounciation. Chord progressions are like sentences or paragraphs (the rhetorical flow of an utterance), just like how words are arranged to make meaning, create expectation, push tension and finally resolve. 
+
 ## 🎹 Piano Improvisation Learning Roadmap (Language Approach)
+
 
 ### 1. Foundations (Alphabet & Pronunciation)
 

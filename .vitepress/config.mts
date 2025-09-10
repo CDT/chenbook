@@ -21,6 +21,10 @@ export default defineConfig({
     sidebar: {
       '/music/': [
         {
+          text: 'Overview',
+          link: '/music/'
+        },
+        {
           text: '🎹 Piano Improvisation Learning Roadmap',
           items: [
             { text: 'Foundations (Alphabet & Pronunciation)', link: '/music/foundations' },
