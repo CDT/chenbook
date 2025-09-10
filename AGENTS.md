@@ -1,6 +1,6 @@
 # ChenBook AI Agent Guidelines
 
-This document provides guidelines for how AI agents could support the ChenBook project - a personal knowledge management system built with VitePress. ChenBook organizes knowledge across four main categories: music, coding, history, and science. Content is maintained in either Chinese or English, without bilingual translation support.
+This document provides guidelines for how AI agents could support the ChenBook project - a personal knowledge management system built with VitePress. ChenBook organizes knowledge across four main categories: music, coding, history, and science. Content is maintained in Chinese, English, or Japanese.
 
 ## Proposed Agent Roles
 

@@ -4,11 +4,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ChenBook",
   description: "Personal Knowledge Management System",
+  head: [
+    ['link', { rel: 'icon', href: '/icon.svg' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/icon.svg',
     nav: [
-      { text: 'Coding', link: '/coding/' },
       { text: 'Music', link: '/music/' },
+      { text: 'Coding', link: '/coding/' },
       { text: 'History', link: '/history/' },
       { text: 'Science', link: '/science/' }
     ],
@@ -41,7 +45,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/CDT/chenbook.github.io' }
     ]
   }
 })
