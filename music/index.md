@@ -22,14 +22,6 @@ Each topic includes:
 - **Question Bank**: Thought-provoking questions to test understanding
 - **Interactive Flashcards**: Spaced repetition system for memorization
 
-### Getting Started
-
-Explore the sidebar to navigate through different musical topics, or start with our fundamental guides:
-
-- [Music Theory Basics](/music/theory/)
-- [Music History Timeline](/music/history/)
-- [Famous Composers](/music/composers/)
-
 ---
 
 *Content is maintained in Chinese, English, and Japanese for comprehensive learning.*

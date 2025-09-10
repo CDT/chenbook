@@ -42,15 +42,6 @@ Each scientific topic includes:
 - **Problem Solving**: Applying scientific methods to real-world problems
 - **Understanding Uncertainty**: Working with probabilities and statistical analysis
 
-### Getting Started
-
-Begin your scientific exploration with our fundamental guides:
-
-- [Physics Fundamentals](/science/physics/)
-- [Chemistry Basics](/science/chemistry/)
-- [Biology Essentials](/science/biology/)
-- [Scientific Method](/science/method/)
-
 ---
 
 *Science reveals the wonders of our universe. All content is fact-checked and regularly updated. Available in Chinese, English, and Japanese.*

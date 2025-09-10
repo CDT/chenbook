@@ -30,15 +30,6 @@ Each topic includes:
 - **Go/Rust**: System programming and high-performance applications
 - **SQL**: Database design and query optimization
 
-### Getting Started
-
-Begin your coding journey with our foundational guides:
-
-- [Programming Fundamentals](/coding/fundamentals/)
-- [Data Structures & Algorithms](/coding/algorithms/)
-- [Web Development](/coding/web/)
-- [Software Engineering Practices](/coding/practices/)
-
 ---
 
 *All code examples are tested and updated regularly. Content available in Chinese, English, and Japanese.*

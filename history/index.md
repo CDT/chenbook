@@ -38,15 +38,6 @@ Each historical topic includes:
 - **Early Modern**: Renaissance and Reformation
 - **Modern Era**: Industrialization to present day
 
-### Getting Started
-
-Begin exploring history with our foundational guides:
-
-- [Ancient Civilizations](/history/ancient/)
-- [World War Era](/history/wars/)
-- [Chinese History](/history/china/)
-- [Modern History](/history/modern/)
-
 ---
 
 *History connects us to our past and helps us understand our present. Content available in Chinese, English, and Japanese.*
