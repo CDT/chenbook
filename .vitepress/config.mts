@@ -6,7 +6,7 @@ export default defineConfig({
   title: "ChenBook",
   description: "Personal Knowledge Management System",
   head: [
-    ['link', { rel: 'icon', href: '/icon.svg' }]
+    ['link', { rel: 'icon', href: '/chenbook/icon.svg' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
