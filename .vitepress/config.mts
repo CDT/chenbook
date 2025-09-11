@@ -25,16 +25,12 @@ export default defineConfig({
           link: '/music/'
         },
         {
-          text: '🎹 Piano Improvisation Learning Roadmap',
-          items: [
-            { text: 'Foundations (Alphabet & Pronunciation)', link: '/music/foundations' },
-            { text: 'Musical Vocabulary (Words)', link: '/music/vocabulary' },
-            { text: 'Grammar & Syntax', link: '/music/grammar-syntax' },
-            { text: 'Listening & Repetition (Immersion)', link: '/music/listening-immersion' },
-            { text: 'Fluency (Speaking & Improvising)', link: '/music/fluency' },
-            { text: 'Expanding Expression (Advanced Conversation)', link: '/music/expanding-expression' },
-            { text: 'Performance & Integration', link: '/music/performance-integration' }
-          ]
+          text: 'Compare Music and Language',
+          link: '/music/compare-music-and-language'
+        },
+        {
+          text: 'Play by Ear',
+          link: '/music/play-by-ear'
         }
       ],
       '/coding/': [
