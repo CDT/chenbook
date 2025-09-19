@@ -20,5 +20,7 @@ features:
     details: Historical events, figures, periods, and their cultural significance
   - title: Science
     details: Scientific discoveries, theories, and explanations across various disciplines
+  - title: Miscellaneous
+    details: Diverse topics, interesting ideas, random knowledge, and other fascinating subjects
 ---
 

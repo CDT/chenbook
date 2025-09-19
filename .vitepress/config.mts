@@ -15,7 +15,8 @@ export default defineConfig({
       { text: 'Music', link: '/music/' },
       { text: 'Coding', link: '/coding/' },
       { text: 'History', link: '/history/' },
-      { text: 'Science', link: '/science/' }
+      { text: 'Science', link: '/science/' },
+      { text: 'Miscellaneous', link: '/miscellaneous/' }
     ],
 
     sidebar: {
@@ -49,6 +50,17 @@ export default defineConfig({
         {
           text: 'Science',
           items: []
+        }
+      ],
+      '/miscellaneous/': [
+        {
+          text: 'Miscellaneous',
+          items: [
+            {
+              text: '正念',
+              link: '/miscellaneous/mindfulness'
+            }
+          ]
         }
       ]
     },
