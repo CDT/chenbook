@@ -37,7 +37,12 @@ export default defineConfig({
       '/coding/': [
         {
           text: 'Coding',
-          items: []
+          items: [
+            {
+              text: 'AI Coding Essentials',
+              link: '/coding/ai-coding-essentials'
+            }
+          ]
         }
       ],
       '/history/': [
@@ -59,6 +64,19 @@ export default defineConfig({
             {
               text: '正念',
               link: '/miscellaneous/mindfulness'
+            },
+            {
+              text: '心理学',
+              link: '/miscellaneous/psychology'
+            },
+            {
+              text: 'Book summaries',
+              items: [
+                {
+                  text: 'Collection One',
+                  link: '/miscellaneous/book-summaries/collection-one'
+                }
+              ]
             }
           ]
         }
