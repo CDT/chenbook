@@ -101,7 +101,7 @@ outline: 'deep'
 
 先提过大要求被拒，再提小要求容易被接受。
 
-![拒门效应](/psychology/door-in-the-face-effect.jpg)
+![拒门效应](/psychology/door-in-the-face-effect.png)
 
 ## 四、学习与记忆
 

@@ -77,6 +77,10 @@ export default defineConfig({
                   link: '/miscellaneous/book-summaries/collection-one'
                 }
               ]
+            },
+            {
+              text: '李继刚 Prompts',
+              link: '/miscellaneous/lijigang'
             }
           ]
         }
