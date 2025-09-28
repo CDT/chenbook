@@ -41,6 +41,18 @@ export default defineConfig({
             {
               text: 'AI Coding Essentials',
               link: '/coding/ai-coding-essentials'
+            },
+            {
+              text: 'AGENTS.md',
+              link: '/coding/agentsmd'
+            },
+            {
+              text: 'Best Practices for Codex',
+              link: '/coding/best-practices-for-codex'
+            },
+            {
+              text: 'Open Source Projects Deployment',
+              link: '/coding/opensource-projects-deployment'
             }
           ]
         }
