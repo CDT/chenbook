@@ -1,4 +1,4 @@
-# Best Practices for Codex
+# OpenAI Related
 
 ## References
 

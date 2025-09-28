@@ -47,12 +47,16 @@ export default defineConfig({
               link: '/coding/agentsmd'
             },
             {
-              text: 'Best Practices for Codex',
-              link: '/coding/best-practices-for-codex'
+              text: 'OpenAI Related',
+              link: '/coding/openai-related'
             },
             {
               text: 'Open Source Projects Deployment',
               link: '/coding/opensource-projects-deployment'
+            },
+            {
+              text: 'Prompt Engineering',
+              link: '/coding/prompt-engineering'
             }
           ]
         }
@@ -93,6 +97,36 @@ export default defineConfig({
             {
               text: '李继刚 Prompts',
               link: '/miscellaneous/lijigang'
+            },
+            {
+              text: 'English Vocabulary',
+              link: '/miscellaneous/english-vocab'
+            },
+            {
+              text: 'Money Making',
+              items: [
+                {
+                  text: 'Introduction to Side Hustles',
+                  link: '/miscellaneous/money-making/side-hustles'
+                },
+                {
+                  text: 'Passive Income Ideas',
+                  link: '/miscellaneous/money-making/passive-income'
+                },
+                {
+                  text: 'Freelancing Platforms',
+                  link: '/miscellaneous/money-making/freelancing-platforms'
+                }
+              ]
+            },
+            {
+              text: 'Excerpts',
+              items: [
+                {
+                  text: 'Zhihu',
+                  link: '/miscellaneous/excerpts/zhihu'
+                }
+              ]
             }
           ]
         }
