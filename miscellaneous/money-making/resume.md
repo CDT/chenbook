@@ -3,7 +3,7 @@
 ## Contact Information
 
 **Chen Dongtian**  
-Software Developer
+Software Developer  
 Wuhan, Hubei, China  
 Phone: (+86) 189 8614 5582  
 Email: cdt86915998@gmail.com
