@@ -106,16 +106,8 @@ export default defineConfig({
               text: 'Money Making',
               items: [
                 {
-                  text: 'Introduction to Side Hustles',
-                  link: '/miscellaneous/money-making/side-hustles'
-                },
-                {
-                  text: 'Passive Income Ideas',
-                  link: '/miscellaneous/money-making/passive-income'
-                },
-                {
-                  text: 'Freelancing Platforms',
-                  link: '/miscellaneous/money-making/freelancing-platforms'
+                  text: 'Resume',
+                  link: '/miscellaneous/money-making/resume'
                 }
               ]
             },
