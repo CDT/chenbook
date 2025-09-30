@@ -64,6 +64,14 @@ export default defineConfig({
             {
               text: 'Prompt Engineering',
               link: '/coding/prompt-engineering'
+            },
+            {
+              text: 'Platforms',
+              link: '/coding/platforms'
+            },
+            {
+              text: 'Testing',
+              link: '/coding/testing'
             }
           ]
         }

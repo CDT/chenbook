@@ -1,6 +1,6 @@
 # English Vocabulary
  
-## First set
+## 1st set
 
 ![slither](/vocab/english/slither.png)
 
@@ -17,3 +17,11 @@
 ![zenith](/vocab/english/zenith.jpg)
 
 ![behemoth](/vocab/english/behemoth.jpg)
+
+## 2nd set
+
+![ingenious](/vocab/english/ingenious.png)
+
+![catnip](/vocab/english/catnip.png)
+
+![glee](/vocab/english/glee.png)
