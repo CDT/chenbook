@@ -1,43 +1,31 @@
 # History
 
-Welcome to the History section of ChenBook, where we explore the rich tapestry of human civilization, events, and cultural developments through time.
+Welcome to the History section of ChenBook, where we explore the rich tapestry of human civilization, events, and cultural developments across time and space.
 
-## 🏛️ What You'll Find Here
+## What You'll Find Here
 
-This section provides comprehensive coverage of historical events, figures, periods, and their lasting impact on society, culture, and human progress.
+This section provides chronological overviews, thematic analyses, and study aids for both China and the wider world.
+
+### Start Here
+
+- Chinese History Overview → [/history/china](/history/china)
+- World History Overview → [/history/world](/history/world)
 
 ### Core Topics
 
-- **Ancient Civilizations**: Mesopotamia, Egypt, Greece, Rome, and early Asian civilizations
-- **Medieval & Renaissance**: Middle Ages, Crusades, Renaissance, and Age of Exploration
-- **Modern Era**: Industrial Revolution, World Wars, Cold War, and contemporary history
-- **Cultural History**: Art, literature, philosophy, and intellectual movements
-- **Political History**: Revolutions, empires, and the evolution of governance
-- **Social History**: Daily life, societal changes, and human experiences
-
-### Geographic Focus
-
-- **World History**: Global events and interconnected historical developments
-- **Chinese History**: From ancient dynasties to modern China
-- **Western Civilization**: European and American historical narratives
-- **Asian History**: Japanese, Indian, and Southeast Asian perspectives
-- **Global Interactions**: Trade, colonization, and cultural exchanges
+- Ancient Civilizations: Mesopotamia, Egypt, Indus, China, and early Americas
+- Medieval to Early Modern: Afro–Eurasian networks, Islamic Golden Age, Renaissance, and exploration
+- Modern Era: Industrialization, revolutions, imperialism, world wars, Cold War, globalization
+- Cultural & Intellectual History: Art, literature, philosophy, religion
+- Political & Social History: States, institutions, social life, migration, and inequality
 
 ### Learning Approach
 
-Each historical topic includes:
-- **Core Articles**: Chronological narratives with key context
-- **Question Bank**: Analytical questions about causes, effects, and significance
-- **Interactive Flashcards**: Key dates, figures, and events for memorization
-
-### Historical Periods Covered
-
-- **Prehistoric Era**: Human origins and early civilizations
-- **Classical Period**: Ancient Greece and Rome
-- **Middle Ages**: Feudalism and medieval society
-- **Early Modern**: Renaissance and Reformation
-- **Modern Era**: Industrialization to present day
+Each topic includes:
+- Core Articles: concise, well-structured narratives
+- Question Bank: prompts for reflection and deeper analysis
+- Interactive Flashcards: quick review with a spaced-repetition flow
 
 ---
 
-*History connects us to our past and helps us understand our present. Content available in Chinese, English, and Japanese.*
+History connects us to our past and helps us understand our present. Content is kept clear and concise, and can be expanded with further subpages over time.

@@ -64,7 +64,34 @@ export default defineConfig({
       '/history/': [
         {
           text: 'History',
-          items: []
+          items: [
+            {
+              text: 'Chinese History Overview',
+              link: '/history/china/index',
+              items: [
+                { text: '史前', link: '/history/china/prehistory' },
+                { text: '商', link: '/history/china/shang' },
+                { text: '周', link: '/history/china/xia' },
+                { text: '秦', link: '/history/china/qin' },
+                { text: '汉', link: '/history/china/han' },
+                { text: '三国', link: '/history/china/three-kingdoms' },
+                { text: '晋', link: '/history/china/jin' },
+                { text: '南北朝', link: '/history/china/northern-and-southern-dynasties' },
+                { text: '隋', link: '/history/china/sui' },
+                { text: '唐', link: '/history/china/tang' },
+                { text: '五代十国', link: '/history/china/five-dynasties-ten-kingdoms' },
+                { text: '宋', link: '/history/china/song' },
+                { text: '元', link: '/history/china/yuan' },
+                { text: '明', link: '/history/china/ming' },
+                { text: '清', link: '/history/china/qing' },
+                { text: '近现代', link: '/history/china/modern' }
+              ]
+            },
+            {
+              text: 'World History Overview',
+              link: '/history/world'
+            }
+          ]
         }
       ],
       '/science/': [
