@@ -8,7 +8,7 @@ This section provides chronological overviews, thematic analyses, and study aids
 
 ### Start Here
 
-- Chinese History Overview → [/history/china](/history/china)
+- Chinese History Overview → [/history/china](/history/index)
 - World History Overview → [/history/world](/history/world)
 
 ### Core Topics
