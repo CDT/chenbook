@@ -40,7 +40,7 @@ async function render() {
     }
     const visualObjs = ABCJS.renderAbc(notationEl.value, props.abc, renderOpts)
 
-    if (props.audio && ABCJS.synth && audioEl.value && visualObjs && visualObjs[0]) {
+    if (props.audio && ABCJS.synth && ABCJS.synth.supportsAudio && ABCJS.synth.supportsAudio() && audioEl.value && visualObjs && visualObjs[0]) {
       controller = new ABCJS.synth.SynthController()
       controller.load(audioEl.value, null, {
         displayRestart: true,
@@ -49,8 +49,12 @@ async function render() {
         displayClock: true
       })
 
-      // Ensure audio context and soundfont are ready when user hits play
-      await controller.setTune(visualObjs[0], true)
+      // Do NOT start/resume AudioContext until user interacts.
+      // Pass `userAction: false` so Chrome autoplay policies aren’t triggered.
+      await controller.setTune(visualObjs[0], false)
+    } else if (props.audio && (!ABCJS.synth || (ABCJS.synth.supportsAudio && !ABCJS.synth.supportsAudio()))) {
+      // Audio not supported; silently render notation and expose a hint.
+      error.value = ''
     }
   } catch (e) {
     error.value = 'Failed to render ABC (client-only). If building statically, ensure this runs on the client.'
@@ -76,4 +80,3 @@ watch(() => props.abc, async () => {
 .abc-audio { margin-top: 0.5rem; }
 .abc-error { color: #c00; font-size: 0.9rem; }
 </style>
-
