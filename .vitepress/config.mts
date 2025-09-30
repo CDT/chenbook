@@ -32,6 +32,13 @@ export default defineConfig({
         {
           text: 'Play by Ear',
           link: '/music/play-by-ear'
+        },
+        {
+          text: 'Tabs',
+          items: [
+            { text: 'Overview', link: '/music/tabs/' },
+            { text: 'Always With Me (Demo)', link: '/music/tabs/always-with-me' }
+          ]
         }
       ],
       '/coding/': [
