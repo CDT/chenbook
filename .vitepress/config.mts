@@ -16,6 +16,7 @@ export default defineConfig({
       { text: 'Coding', link: '/coding/' },
       { text: 'History', link: '/history/' },
       { text: 'Science', link: '/science/' },
+      { text: 'Literature', link: '/literature/' },
       { text: 'Miscellaneous', link: '/miscellaneous/' }
     ],
 
@@ -112,7 +113,33 @@ export default defineConfig({
       '/science/': [
         {
           text: 'Science',
-          items: []
+          items: [
+          {
+            text: '心理学',
+            link: '/science/psychology'
+          },
+          {
+            text: '正念',
+            link: '/science/mindfulness'
+          },
+          {
+            text: '睡眠'
+          }]
+        }
+      ],
+      '/literature/': [
+        {
+          text: 'Literature',
+          items: [
+            {
+              text: '增广贤文',
+              link: '/literature/zgxw'
+            },
+            {
+              text: '诗词古文摘录',
+              link: '/literature/poetry'
+            }
+          ]
         }
       ],
       '/miscellaneous/': [
@@ -122,10 +149,6 @@ export default defineConfig({
             {
               text: '正念',
               link: '/miscellaneous/mindfulness'
-            },
-            {
-              text: '心理学',
-              link: '/miscellaneous/psychology'
             },
             {
               text: 'Book summaries',
