@@ -92,7 +92,7 @@ Email: cdt86915998@gmail.com
 ## Languages
 
 - **Chinese**: Native
-- **English**: Proficient (Duolingo 145)
+- **English**: Proficient (IELTS Academic 7.5, Duolingo 145)
 - **Japanese**: Proficient (JLPT N1)
 
 ## Awards & Certifications
