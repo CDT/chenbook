@@ -25,3 +25,20 @@
 ![catnip](/vocab/english/catnip.png)
 
 ![glee](/vocab/english/glee.png)
+
+![avocado](/vocab/english/avocado.png)
+
+![confection](/vocab/english/confection.png)
+
+![fillet](/vocab/english/fillet.png)
+
+![giblet](/vocab/english/giblet.png)
+
+![hosiery](/vocab/english/hosiery.png)
+
+![monolithic](/vocab/english/monolithic.png)
+
+![rosemary](/vocab/english/rosemary.png)
+
+![viscera](/vocab/english/viscera.png)
+

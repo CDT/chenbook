@@ -173,6 +173,10 @@ export default defineConfig({
                 {
                   text: 'Resume',
                   link: '/miscellaneous/money-making/resume'
+                },
+                {
+                  text: 'Requirements in Different Countries',
+                  link: '/miscellaneous/money-making/requirements-in-different-countries'
                 }
               ]
             },
