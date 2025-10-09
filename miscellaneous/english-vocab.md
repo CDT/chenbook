@@ -42,3 +42,13 @@
 
 ![viscera](/vocab/english/viscera.png)
 
+## 3rd set
+
+![hackathon](/vocab/english/hackathon.png)
+
+![gig](/vocab/english/gig.png)
+
+![vetting](/vocab/english/vetting.png)
+
+![remuneration](/vocab/english/remuneration.png)
+
