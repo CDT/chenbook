@@ -52,3 +52,7 @@
 
 ![remuneration](/vocab/english/remuneration.png)
 
+![serene](/vocab/english/serene.png)
+
+![serendipity](/vocab/english/serendipity.png)
+

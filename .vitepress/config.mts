@@ -35,6 +35,10 @@ export default defineConfig({
           link: '/music/play-by-ear'
         },
         {
+          text: 'Key Characters',
+          link: '/music/key-characters'
+        },
+        {
           text: 'Tabs',
           items: [
             { text: 'Overview', link: '/music/tabs/' },
@@ -123,7 +127,12 @@ export default defineConfig({
             link: '/science/mindfulness'
           },
           {
-            text: '睡眠'
+            text: '睡眠',
+            link: '/science/sleep'
+          },
+          {
+            text: '斯多葛主义',
+            link: '/science/stoicism'
           }]
         }
       ],
