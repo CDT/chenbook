@@ -14,6 +14,6 @@
 - 从氏族到早期国家的关键机制是什么？
 
 ## Flashcards
-<Flashcard question="仰韶文化与龙山文化的主要差异？" answer="仰韶彩陶与相对早期农业；龙山黑陶、社会分层与城址更发达。" />
-<Flashcard question="史前农业的两大作物带？" answer="黄河流域以粟为主；长江流域以稻为主。" />
-<Flashcard question="史前聚落分层的证据？" answer="城墙/壕沟、墓葬等级、手工业专业化与居址规模差异。" />
+<Flashcard id="history-china-prehistory-1" question="仰韶文化与龙山文化的主要差异？" answer="仰韶彩陶与相对早期农业；龙山黑陶、社会分层与城址更发达。" />
+<Flashcard id="history-china-prehistory-2" question="史前农业的两大作物带？" answer="黄河流域以粟为主；长江流域以稻为主。" />
+<Flashcard id="history-china-prehistory-3" question="史前聚落分层的证据？" answer="城墙/壕沟、墓葬等级、手工业专业化与居址规模差异。" />

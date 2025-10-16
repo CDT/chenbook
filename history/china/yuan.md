@@ -13,6 +13,6 @@
 - 元末危机的结构性诱因？
 
 ## Flashcards
-<Flashcard question="元代基本行政区划？" answer="行省制（省—路—府州县）。" />
-<Flashcard question="元代文学成就？" answer="元杂剧与散曲。" />
-<Flashcard question="元代纸币问题？" answer="滥发与通货不稳造成经济波动。" />
+<Flashcard id="history-china-yuan-1" question="元代基本行政区划？" answer="行省制（省—路—府州县）。" />
+<Flashcard id="history-china-yuan-2" question="元代文学成就？" answer="元杂剧与散曲。" />
+<Flashcard id="history-china-yuan-3" question="元代纸币问题？" answer="滥发与通货不稳造成经济波动。" />

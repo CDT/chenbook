@@ -15,6 +15,6 @@
 - 改革开放改变了哪些制度性激励与社会结构？
 
 ## Flashcards
-<Flashcard question="1911年后政体变革的标志？" answer="辛亥革命结束帝制，建立中华民国（1912）。" />
-<Flashcard question="改革开放的关键特征？" answer="市场化与对外开放、特区与引资、产业升级与城市化。" />
-<Flashcard question="加入WTO的时间？" answer="2001年。" />
+<Flashcard id="history-china-modern-1" question="1911年后政体变革的标志？" answer="辛亥革命结束帝制，建立中华民国（1912）。" />
+<Flashcard id="history-china-modern-2" question="改革开放的关键特征？" answer="市场化与对外开放、特区与引资、产业升级与城市化。" />
+<Flashcard id="history-china-modern-3" question="加入WTO的时间？" answer="2001年。" />

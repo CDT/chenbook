@@ -13,6 +13,6 @@
 - 均田/府兵等制度的历史意义？
 
 ## Flashcards
-<Flashcard question="两大石窟艺术中心？" answer="云冈与龙门石窟。" />
-<Flashcard question="北朝重要制度探索？" answer="均田制与府兵制（雏形）。" />
-<Flashcard question="南朝文化特点？" answer="江南经济文化上升，文学与佛学活跃。" />
+<Flashcard id="history-china-northern-and-southern-dynasties-1" question="两大石窟艺术中心？" answer="云冈与龙门石窟。" />
+<Flashcard id="history-china-northern-and-southern-dynasties-2" question="北朝重要制度探索？" answer="均田制与府兵制（雏形）。" />
+<Flashcard id="history-china-northern-and-southern-dynasties-3" question="南朝文化特点？" answer="江南经济文化上升，文学与佛学活跃。" />

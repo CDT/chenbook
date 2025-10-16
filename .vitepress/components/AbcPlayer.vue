@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-import { onMounted, ref, watch, nextTick } from 'vue'
+import { onMounted, onBeforeUnmount, ref, watch, nextTick } from 'vue'
 
 const props = defineProps({
   abc: { type: String, required: true },
@@ -22,6 +22,21 @@ const error = ref('')
 let ABCJS = null
 let controller = null
 
+function teardown() {
+  if (controller) {
+    try {
+      controller.pause && controller.pause()
+      controller.destroy && controller.destroy()
+    } catch (err) {
+      console.warn('Failed to tear down ABCJS controller', err)
+    } finally {
+      controller = null
+    }
+  }
+  if (notationEl.value) notationEl.value.innerHTML = ''
+  if (audioEl.value) audioEl.value.innerHTML = ''
+}
+
 async function render() {
   error.value = ''
   try {
@@ -30,8 +45,7 @@ async function render() {
     if (!notationEl.value) return
 
     // Clear previous render
-    notationEl.value.innerHTML = ''
-    if (audioEl.value) audioEl.value.innerHTML = ''
+    teardown()
 
     const renderOpts = {
       add_classes: true,
@@ -50,7 +64,7 @@ async function render() {
       })
 
       // Do NOT start/resume AudioContext until user interacts.
-      // Pass `userAction: false` so Chrome autoplay policies aren’t triggered.
+      // Pass `userAction: false` so Chrome autoplay policies aren't triggered.
       await controller.setTune(visualObjs[0], false)
     } else if (props.audio && (!ABCJS.synth || (ABCJS.synth.supportsAudio && !ABCJS.synth.supportsAudio()))) {
       // Audio not supported; silently render notation and expose a hint.
@@ -71,6 +85,10 @@ onMounted(async () => {
 watch(() => props.abc, async () => {
   await nextTick()
   render()
+})
+
+onBeforeUnmount(() => {
+  teardown()
 })
 </script>
 

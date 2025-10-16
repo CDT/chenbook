@@ -13,6 +13,6 @@
 - 东汉衰败的结构性原因有哪些？
 
 ## Flashcards
-<Flashcard question="汉武帝的对外与内政要点？" answer="通西域、征伐匈奴；中央集权、盐铁专卖与推恩令。" />
-<Flashcard question="汉代官方意识形态？" answer="以儒为表、兼采法术，实践层面务实。" />
-<Flashcard question="汉代重要史学著作？" answer="司马迁《史记》。" />
+<Flashcard id="history-china-han-1" question="汉武帝的对外与内政要点？" answer="通西域、征伐匈奴；中央集权、盐铁专卖与推恩令。" />
+<Flashcard id="history-china-han-2" question="汉代官方意识形态？" answer="以儒为表、兼采法术，实践层面务实。" />
+<Flashcard id="history-china-han-3" question="汉代重要史学著作？" answer="司马迁《史记》。" />

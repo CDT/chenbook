@@ -13,6 +13,6 @@
 - 速亡的结构性原因是什么？
 
 ## Flashcards
-<Flashcard question="隋代最重要的工程？" answer="大运河（沟通南北、粮运军运）。" />
-<Flashcard question="隋代选官新举措？" answer="科举雏形（进士科等的前身）。" />
-<Flashcard question="速亡主因之一？" answer="对外用兵失败与徭役沉重。" />
+<Flashcard id="history-china-sui-1" question="隋代最重要的工程？" answer="大运河（沟通南北、粮运军运）。" />
+<Flashcard id="history-china-sui-2" question="隋代选官新举措？" answer="科举雏形（进士科等的前身）。" />
+<Flashcard id="history-china-sui-3" question="速亡主因之一？" answer="对外用兵失败与徭役沉重。" />

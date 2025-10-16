@@ -13,6 +13,6 @@
 - 南迁对江南经济文化的促进作用？
 
 ## Flashcards
-<Flashcard question="八王之乱的影响？" answer="导致西晋元气大伤，北方陷落，加速政权分裂。" />
-<Flashcard question="东晋的都城？" answer="建康（今南京）。" />
-<Flashcard question="晋代的重要社会迁徙？" answer="北人南迁，带动江南开发与文化融合。" />
+<Flashcard id="history-china-jin-1" question="八王之乱的影响？" answer="导致西晋元气大伤，北方陷落，加速政权分裂。" />
+<Flashcard id="history-china-jin-2" question="东晋的都城？" answer="建康（今南京）。" />
+<Flashcard id="history-china-jin-3" question="晋代的重要社会迁徙？" answer="北人南迁，带动江南开发与文化融合。" />

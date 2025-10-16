@@ -13,6 +13,6 @@
 - 地缘与资源对三国战略的约束？
 
 ## Flashcards
-<Flashcard question="三国三大政权？" answer="曹魏、蜀汉、东吴。" />
-<Flashcard question="九品中正制影响？" answer="强化门阀，改变选官生态。" />
-<Flashcard question="影响大众的文学形象来源？" answer="《三国演义》（明代小说）基于史实再创作。" />
+<Flashcard id="history-china-three-kingdoms-1" question="三国三大政权？" answer="曹魏、蜀汉、东吴。" />
+<Flashcard id="history-china-three-kingdoms-2" question="九品中正制影响？" answer="强化门阀，改变选官生态。" />
+<Flashcard id="history-china-three-kingdoms-3" question="影响大众的文学形象来源？" answer="《三国演义》（明代小说）基于史实再创作。" />

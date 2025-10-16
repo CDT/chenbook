@@ -13,6 +13,6 @@
 - 如果没有秦，汉帝国的体制会如何不同？
 
 ## Flashcards
-<Flashcard question="秦的基层行政核心？" answer="郡县制，中央直接任命地方官。" />
-<Flashcard question="统一政策包含哪些？" answer="文字、度量衡、车轨、货币等。" />
-<Flashcard question="秦陵著名考古遗存？" answer="兵马俑与庞大陵寝工程。" />
+<Flashcard id="history-china-qin-1" question="秦的基层行政核心？" answer="郡县制，中央直接任命地方官。" />
+<Flashcard id="history-china-qin-2" question="统一政策包含哪些？" answer="文字、度量衡、车轨、货币等。" />
+<Flashcard id="history-china-qin-3" question="秦陵著名考古遗存？" answer="兵马俑与庞大陵寝工程。" />

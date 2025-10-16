@@ -119,19 +119,19 @@ China’s history spans millennia, marked by cycles of unification and fragmenta
 
 ## Flashcards
 
-<Flashcard question="What doctrine justified dynastic rule in imperial China?" answer="The Mandate of Heaven (天命), linking moral governance to cosmic legitimacy." />
-<Flashcard question="Name three major schools from the Hundred Schools era." answer="Confucianism, Daoism, Mohism (also Legalism; many others)." />
-<Flashcard question="Which dynasty first unified China as an empire?" answer="The Qin (221 BCE), under Qin Shi Huang." />
-<Flashcard question="Which dynasty made Confucianism state orthodoxy and opened Silk Road trade?" answer="The Han, especially under Emperor Wu." />
-<Flashcard question="Which canal linked north–south transport and grain supply?" answer="The Grand Canal (major works in Sui; expanded later)." />
-<Flashcard question="Name three Song-era technological advances." answer="Movable-type printing, magnetic compass, gunpowder weapons (also paper money, iron)." />
-<Flashcard question="Who founded the Yuan dynasty in China?" answer="Kublai Khan, establishing Mongol rule." />
-<Flashcard question="What were Zheng He’s voyages?" answer="Early 15th-century Ming maritime expeditions across the Indian Ocean." />
-<Flashcard question="Two key 19th-century wars that altered Qing foreign relations?" answer="The Opium Wars (First 1839–42; Second 1856–60)." />
-<Flashcard question="What event ended imperial rule in 1912?" answer="The Xinhai Revolution (辛亥革命)." />
-<Flashcard question="What was the Great Leap Forward’s consequence?" answer="Economic disruption and widespread famine (late 1950s–early 1960s)." />
-<Flashcard question="What shift defined post-1978 Chinese policy?" answer="Reform and Opening: market-oriented reforms and global integration." />
-<Flashcard question="Which island became the ROC stronghold after 1949?" answer="Taiwan, which later democratized and industrialized rapidly." />
-<Flashcard question="High Qing emperors known for expansion and consolidation?" answer="Kangxi, Yongzheng, Qianlong." />
-<Flashcard question="What concept underpins imperial exams and meritocratic bureaucracy?" answer="Confucian ideals of moral cultivation and merit-based service." />
+<Flashcard id="history-china-index-1" question="What doctrine justified dynastic rule in imperial China?" answer="The Mandate of Heaven (天命), linking moral governance to cosmic legitimacy." />
+<Flashcard id="history-china-index-2" question="Name three major schools from the Hundred Schools era." answer="Confucianism, Daoism, Mohism (also Legalism; many others)." />
+<Flashcard id="history-china-index-3" question="Which dynasty first unified China as an empire?" answer="The Qin (221 BCE), under Qin Shi Huang." />
+<Flashcard id="history-china-index-4" question="Which dynasty made Confucianism state orthodoxy and opened Silk Road trade?" answer="The Han, especially under Emperor Wu." />
+<Flashcard id="history-china-index-5" question="Which canal linked north–south transport and grain supply?" answer="The Grand Canal (major works in Sui; expanded later)." />
+<Flashcard id="history-china-index-6" question="Name three Song-era technological advances." answer="Movable-type printing, magnetic compass, gunpowder weapons (also paper money, iron)." />
+<Flashcard id="history-china-index-7" question="Who founded the Yuan dynasty in China?" answer="Kublai Khan, establishing Mongol rule." />
+<Flashcard id="history-china-index-8" question="What were Zheng He’s voyages?" answer="Early 15th-century Ming maritime expeditions across the Indian Ocean." />
+<Flashcard id="history-china-index-9" question="Two key 19th-century wars that altered Qing foreign relations?" answer="The Opium Wars (First 1839–42; Second 1856–60)." />
+<Flashcard id="history-china-index-10" question="What event ended imperial rule in 1912?" answer="The Xinhai Revolution (辛亥革命)." />
+<Flashcard id="history-china-index-11" question="What was the Great Leap Forward’s consequence?" answer="Economic disruption and widespread famine (late 1950s–early 1960s)." />
+<Flashcard id="history-china-index-12" question="What shift defined post-1978 Chinese policy?" answer="Reform and Opening: market-oriented reforms and global integration." />
+<Flashcard id="history-china-index-13" question="Which island became the ROC stronghold after 1949?" answer="Taiwan, which later democratized and industrialized rapidly." />
+<Flashcard id="history-china-index-14" question="High Qing emperors known for expansion and consolidation?" answer="Kangxi, Yongzheng, Qianlong." />
+<Flashcard id="history-china-index-15" question="What concept underpins imperial exams and meritocratic bureaucracy?" answer="Confucian ideals of moral cultivation and merit-based service." />
 

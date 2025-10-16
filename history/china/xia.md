@@ -13,6 +13,6 @@
 - 文献记忆与考古证据的互证路径有哪些？
 
 ## Flashcards
-<Flashcard question="讨论“夏”的常见考古对应？" answer="二里头文化（洛阳偃师一带）等核心遗址群。" />
-<Flashcard question="国家形成的考古线索？" answer="大型宫殿区、道路网、手工业分区、等级墓葬。" />
-<Flashcard question="如何处理史传与考古差异？" answer="比对时间序列、功能分区、物质文化谱系，谨慎互证。" />
+<Flashcard id="history-china-xia-1" question="讨论“夏”的常见考古对应？" answer="二里头文化（洛阳偃师一带）等核心遗址群。" />
+<Flashcard id="history-china-xia-2" question="国家形成的考古线索？" answer="大型宫殿区、道路网、手工业分区、等级墓葬。" />
+<Flashcard id="history-china-xia-3" question="如何处理史传与考古差异？" answer="比对时间序列、功能分区、物质文化谱系，谨慎互证。" />

@@ -14,6 +14,6 @@
 - 改良与革命路径为何都难以“速效”？
 
 ## Flashcards
-<Flashcard question="清代“盛世”常指？" answer="康熙、雍正、乾隆时期。" />
-<Flashcard question="两次鸦片战争时间？" answer="第一次1839–1842；第二次1856–1860。" />
-<Flashcard question="清末改革举措？" answer="洋务运动、戊戌变法、晚清新政、预备立宪等。" />
+<Flashcard id="history-china-qing-1" question="清代“盛世”常指？" answer="康熙、雍正、乾隆时期。" />
+<Flashcard id="history-china-qing-2" question="两次鸦片战争时间？" answer="第一次1839–1842；第二次1856–1860。" />
+<Flashcard id="history-china-qing-3" question="清末改革举措？" answer="洋务运动、戊戌变法、晚清新政、预备立宪等。" />

@@ -99,19 +99,19 @@ World history traces human societies from foraging bands to globalized civilizat
 
 ## Flashcards
 
-<Flashcard question="What was the Columbian Exchange?" answer="A transoceanic transfer of crops, animals, people, diseases, and ideas between the Old and New Worlds after 1492." />
-<Flashcard question="Name three classical empires." answer="Roman, Han, Maurya/Gupta (also Achaemenid, Sasanian)." />
-<Flashcard question="Core maritime trade basins before 1500?" answer="The Indian Ocean, the South China Sea, and the Mediterranean." />
-<Flashcard question="Key features of the Scientific Revolution?" answer="Empiricism, experimentation, mathematics, and new institutions of knowledge." />
-<Flashcard question="Which revolution inspired global rights discourse?" answer="The French Revolution (and also American, Haitian)." />
-<Flashcard question="Two pillars of the Industrial Revolution?" answer="Mechanization and fossil-fuel energy (steam/coal)." />
-<Flashcard question="Define ‘New Imperialism’." answer="Late-19th-century expansion marked by rapid colonization, especially in Africa and Asia." />
-<Flashcard question="What global institution formed after WWII to promote peace?" answer="The United Nations (UN)." />
-<Flashcard question="What is the ‘Cold War’?" answer="US–Soviet geopolitical rivalry (c. 1947–1991), including nuclear deterrence and proxy wars." />
-<Flashcard question="What economic system expanded with global trade and colonization?" answer="Capitalism and commercial/financial networks (joint-stock, stock exchanges)." />
-<Flashcard question="Two major consequences of the Black Death in Europe?" answer="Demographic collapse and social-economic shifts (labor scarcity, challenges to feudal norms)." />
-<Flashcard question="Name two pre-Columbian American empires." answer="Aztec (Mexica) and Inca (Tawantinsuyu)." />
-<Flashcard question="What concept emphasizes sovereign people and national identity?" answer="Nationalism." />
-<Flashcard question="What event symbolically ended the Cold War?" answer="The collapse of the USSR (1991) and earlier the fall of the Berlin Wall (1989)." />
-<Flashcard question="Name two 21st-century systemic challenges." answer="Climate change and pandemic risks (also cybersecurity, great power competition)." />
+<Flashcard id="history-world-1" question="What was the Columbian Exchange?" answer="A transoceanic transfer of crops, animals, people, diseases, and ideas between the Old and New Worlds after 1492." />
+<Flashcard id="history-world-2" question="Name three classical empires." answer="Roman, Han, Maurya/Gupta (also Achaemenid, Sasanian)." />
+<Flashcard id="history-world-3" question="Core maritime trade basins before 1500?" answer="The Indian Ocean, the South China Sea, and the Mediterranean." />
+<Flashcard id="history-world-4" question="Key features of the Scientific Revolution?" answer="Empiricism, experimentation, mathematics, and new institutions of knowledge." />
+<Flashcard id="history-world-5" question="Which revolution inspired global rights discourse?" answer="The French Revolution (and also American, Haitian)." />
+<Flashcard id="history-world-6" question="Two pillars of the Industrial Revolution?" answer="Mechanization and fossil-fuel energy (steam/coal)." />
+<Flashcard id="history-world-7" question="Define ‘New Imperialism’." answer="Late-19th-century expansion marked by rapid colonization, especially in Africa and Asia." />
+<Flashcard id="history-world-8" question="What global institution formed after WWII to promote peace?" answer="The United Nations (UN)." />
+<Flashcard id="history-world-9" question="What is the ‘Cold War’?" answer="US–Soviet geopolitical rivalry (c. 1947–1991), including nuclear deterrence and proxy wars." />
+<Flashcard id="history-world-10" question="What economic system expanded with global trade and colonization?" answer="Capitalism and commercial/financial networks (joint-stock, stock exchanges)." />
+<Flashcard id="history-world-11" question="Two major consequences of the Black Death in Europe?" answer="Demographic collapse and social-economic shifts (labor scarcity, challenges to feudal norms)." />
+<Flashcard id="history-world-12" question="Name two pre-Columbian American empires." answer="Aztec (Mexica) and Inca (Tawantinsuyu)." />
+<Flashcard id="history-world-13" question="What concept emphasizes sovereign people and national identity?" answer="Nationalism." />
+<Flashcard id="history-world-14" question="What event symbolically ended the Cold War?" answer="The collapse of the USSR (1991) and earlier the fall of the Berlin Wall (1989)." />
+<Flashcard id="history-world-15" question="Name two 21st-century systemic challenges." answer="Climate change and pandemic risks (also cybersecurity, great power competition)." />
 

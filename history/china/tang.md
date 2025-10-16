@@ -14,6 +14,6 @@
 - 安史之乱的长期制度与经济影响？
 
 ## Flashcards
-<Flashcard question="唐代中央核心官制？" answer="三省六部。" />
-<Flashcard question="唐诗盛世代表人物？" answer="李白、杜甫（及王维、白居易等）。" />
-<Flashcard question="唐中衰主要转折？" answer="安史之乱导致藩镇割据与财政失衡。" />
+<Flashcard id="history-china-tang-1" question="唐代中央核心官制？" answer="三省六部。" />
+<Flashcard id="history-china-tang-2" question="唐诗盛世代表人物？" answer="李白、杜甫（及王维、白居易等）。" />
+<Flashcard id="history-china-tang-3" question="唐中衰主要转折？" answer="安史之乱导致藩镇割据与财政失衡。" />

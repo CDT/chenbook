@@ -14,6 +14,6 @@
 - 宋代科技为何领先且如何扩散？
 
 ## Flashcards
-<Flashcard question="宋代三大发明之一？" answer="活字印刷（亦有指南针、火药）。" />
-<Flashcard question="南宋都城？" answer="临安（杭州）。" />
-<Flashcard question="宋代思想主流？" answer="理学（程朱学派）。" />
+<Flashcard id="history-china-song-1" question="宋代三大发明之一？" answer="活字印刷（亦有指南针、火药）。" />
+<Flashcard id="history-china-song-2" question="南宋都城？" answer="临安（杭州）。" />
+<Flashcard id="history-china-song-3" question="宋代思想主流？" answer="理学（程朱学派）。" />

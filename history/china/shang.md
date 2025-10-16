@@ -13,6 +13,6 @@
 - 商周之际的制度延续与变革体现在哪里？
 
 ## Flashcards
-<Flashcard question="商代文字的主要载体？" answer="甲骨文（龟甲与兽骨），用于占卜记录。" />
-<Flashcard question="商代都城考古核心遗址？" answer="殷墟（安阳）。" />
-<Flashcard question="商代金属工艺核心？" answer="青铜冶铸与礼器体系。" />
+<Flashcard id="history-china-shang-1" question="商代文字的主要载体？" answer="甲骨文（龟甲与兽骨），用于占卜记录。" />
+<Flashcard id="history-china-shang-2" question="商代都城考古核心遗址？" answer="殷墟（安阳）。" />
+<Flashcard id="history-china-shang-3" question="商代金属工艺核心？" answer="青铜冶铸与礼器体系。" />

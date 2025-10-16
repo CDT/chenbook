@@ -14,6 +14,6 @@
 - 明末财政与军事困局的根本成因？
 
 ## Flashcards
-<Flashcard question="明成祖的重要举措？" answer="迁都北京、修建紫禁城、派郑和下西洋。" />
-<Flashcard question="晚明思想代表？" answer="王阳明心学。" />
-<Flashcard question="明末覆亡外患主因？" answer="与后金（清前身）对抗及财政崩溃、内乱并发。" />
+<Flashcard id="history-china-ming-1" question="明成祖的重要举措？" answer="迁都北京、修建紫禁城、派郑和下西洋。" />
+<Flashcard id="history-china-ming-2" question="晚明思想代表？" answer="王阳明心学。" />
+<Flashcard id="history-china-ming-3" question="明末覆亡外患主因？" answer="与后金（清前身）对抗及财政崩溃、内乱并发。" />
