@@ -49,6 +49,32 @@ Email: cdt86915998@gmail.com
 
 ## Key Projects
 
+### Tongji HIS Helper Platform (2024)
+
+**Full-Stack Developer** – Computer Center, Tongji Hospital of Huazhong University of Science and Technology
+
+- Engineered Node.js/Express services bridging multiple Oracle HIS databases, unifying patient, orders, labs, and pharmacy data into REST APIs that drive Vue/Quasar dashboards for clinical, pharmacy, and medical-affairs teams.
+- Implemented JWT-based role controls, operational logging, SMS/QR utilities, and admin tooling for user, report, and specialty-department management, tightening governance across cross-department workflows.
+
+### Hospital Report Upload Platform (2019)
+**Full-Stack Developer** – Computer Center, Tongji Hospital of Huazhong University of Science and Technology
+
+- Delivered Node.js services that query dual Oracle HIS/Medical Report systems, validate CAS logins, and orchestrate XML-based report uploads/cancellations to the hospital Medical Report System gateway with PDF/image merging and audit logging.
+- Built a Vue 3 + Element Plus workstation letting technologists filter patient orders, preview histories, and generate templated PDFs via an in-browser editor that autofills results, embeds lab imagery, and streams uploads with delegated credential checks.
+
+### Outpatient MRCP Data Collection Platform (2024)
+**Full-stack Developer** - Computer Center, Tongji Hospital of Huazhong University of Science and Technology
+
+- Engineered a Node.js/Express service that pulls outpatient visits from Oracle HIS, normalizes them into MongoDB MRCP records with cron-triggered batching, WebSocket progress feeds, PDF/Excel exports, and JWT/Bcrypt-based role security.
+- Delivered a Vue 3 + Quasar SPA that lets coders run batch or single-record collection, edit MRCP front pages with rule-driven validation, and monitor quality dashboards spanning visit statistics, indicator performance, and data governance tools.
+
+### Nursing Unit Nursing Grading Management System (2024)
+
+**Full-stack Developer** - Computer Center, Tongji Hospital of Huazhong University of Science and Technology
+
+- Engineered a JWT-secured Express/Oracle API that pools HIS data, manages nursing units, procedures, workload overrides, and rule configurations, and applies transaction-safe merges plus pagination/validation utilities.
+- Built the Vue 3 + Element Plus operations console with tabbed workflow, remote lookup components, and embedded HIS reports so administrators can maintain unit-to-HIS mappings and trigger automated workload regeneration.
+
 ### Hospital Smart Service Grading Evaluation (2022)
 **Project Manager** - Computer Center, Tongji Hospital of Huazhong University of Science and Technology
 - Interpreted evaluation standards and led technical team
