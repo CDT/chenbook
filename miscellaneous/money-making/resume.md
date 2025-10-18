@@ -15,17 +15,17 @@ Email: cdt86915998@gmail.com
 *Wuhan, Hubei, China*  
 **July 2016 - Present**
 
-- Responsible for system maintenance and demand research of electronic medical record systems
-- Writing data statistical reports and developing third-party systems
-- Leading technical improvements for hospital information systems evaluation standards
+
+- Full-stack developer responsible for building APIs, administrative applications, and data-driven applications integrated with hospital systems and third-party healthcare platforms.
+- Responsible for maintaining and optimizing electronic medical record (EMR) systems, including demand analysis and system enhancement.
+- Led technical initiatives to improve hospital information systems in alignment with national evaluation standards.
 
 ### Software Developer Intern
 **China Southern Asset Management Co., Ltd.**  
 *Shenzhen, Guangdong, China*  
 **July 2015 - August 2015**
 
-- Built an API management system with REST API backend based on Spring Web MVC + Hibernate + Hadoop
-- Developed frontend interface using Bootstrap + jQuery
+- Built an API management system under IT mentorship, using Spring Web MVC, Hibernate, and Hadoop for the backend, and Bootstrap with jQuery for the frontend.
 
 ### Test Engineer
 **Wuhan Rural Commercial Bank**  
@@ -34,7 +34,6 @@ Email: cdt86915998@gmail.com
 
 - Conducted performance tests on banking information systems
 - Wrote comprehensive test reports
-- Developed transactions on banking business systems
 
 ## Education
 
@@ -82,12 +81,11 @@ Email: cdt86915998@gmail.com
 
 ## Technical Skills
 
-- **Web Development**: Full-stack development experience
-- **Programming Languages**: Java, C++, SQL
-- **Frameworks**: Spring Web MVC, Hibernate
-- **Databases**: SQL, Hadoop
-- **Frontend**: Bootstrap, jQuery
-- **Mobile Development**: Android
+- **Web Development:** Full-stack experience
+- **Languages:** Node.js, SQL
+- **Databases:** Oracle, NoSQL
+- **Frontend:** Vue.js
+- **Reporting & Analytics Tools**: FineReport development
 
 ## Languages
 
@@ -97,17 +95,11 @@ Email: cdt86915998@gmail.com
 
 ## Awards & Certifications
 
-### Recent Certifications
+### Other Certifications
 - **2022**: Second-level Construction Engineer Qualification
-- **2021**: Japanese Language Proficiency Test N1
 - **2014**: Banking Qualification Certificate
 
-### Academic Awards
+### University Awards
 - **2015**: Wuhan University Master's Degree Scholarship - Second-class Academic Scholarship
 - **2014**: Wuhan University Master's Degree Scholarship - First-class Academic Scholarship
 - **2010**: National College English Contest Second Prize
-
-## Professional Summary
-
-Experienced software developer with 8+ years in healthcare information systems and financial technology. Specialized in electronic medical record systems, API development, and project management. Proven track record in leading technical teams to meet industry evaluation standards and developing comprehensive information systems for hospitals and financial institutions.
-
