@@ -56,3 +56,13 @@
 
 ![serendipity](/vocab/english/serendipity.png)
 
+![vibe](/vocab/english/vibe.png)
+
+![attire](/vocab/english/attire.png)
+
+![apparel](/vocab/english/apparel.png)
+
+![bite the dust](/vocab/english/bite-the-dust.png)
+
+
+
