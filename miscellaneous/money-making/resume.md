@@ -12,6 +12,10 @@ Email: cdt86915998@gmail.com
 
 <a href="/chenbook/misc/陈洞天_简历.docx" download>简历</a>
 
+## Professional Summary
+
+Experienced full-stack software developer with 8+ years of expertise in healthcare information systems. Specialized in building enterprise-grade applications integrating hospital information systems (HIS), electronic medical records (EMR), and data-driven platforms using Node.js, Vue.js, and Oracle databases. Proven track record in leading technical initiatives for national hospital evaluation standards, delivering scalable REST APIs, and implementing role-based security systems. Strong background in both backend architecture and modern frontend development, with multilingual capabilities enabling effective communication in international environments.
+
 ## Professional Experience
 
 ### Software Developer
@@ -136,6 +140,10 @@ Email: cdt86915998@gmail.com
 武汉市，湖北省，中国  
 电话：(+86) 189 8614 5582  
 邮箱：cdt86915998@gmail.com
+
+## 个人简介
+
+资深全栈软件开发工程师，在医疗信息系统领域拥有8年以上专业经验。专注于构建企业级应用程序，整合医院信息系统（HIS）、电子病历（EMR）和数据驱动平台，使用Node.js、Vue.js和Oracle数据库。在领导国家医院评估标准技术项目、交付可扩展REST API和实施基于角色的安全系统方面拥有卓越记录。具备扎实的后端架构和现代前端开发能力，多语言能力有助于在国际环境中有效沟通。
 
 ## 专业经验
 
