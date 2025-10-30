@@ -57,7 +57,6 @@ function buildItems(dir: string, baseUrl: string, depth = 0): DefaultTheme.Sideb
 
     const group: DefaultTheme.SidebarItem = {
       text: groupTitle,
-      collapsible: true,
       collapsed: depth >= 1,
       items: subItems
     }
