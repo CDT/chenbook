@@ -15,9 +15,6 @@ export default defineConfig({
     nav: [
       { text: 'Music', link: '/music/' },
       { text: 'Coding', link: '/coding/' },
-      { text: 'History', link: '/history/' },
-      { text: 'Science', link: '/science/' },
-      { text: 'Literature', link: '/literature/' },
       { text: 'Miscellaneous', link: '/miscellaneous/' }
     ],
 

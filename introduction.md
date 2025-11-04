@@ -1,6 +1,6 @@
 # Welcome to ChenBook
 
-Welcome to **ChenBook**, Chen Dongtian's personal knowledge management system. This site serves as a comprehensive repository of knowledge organized across four main domains: **Music**, **Coding**, **History**, and **Science**.
+Welcome to **ChenBook**, Chen Dongtian's personal knowledge management system. This site serves as a comprehensive repository of knowledge organized across two main domains: **Music** and **Coding**.
 
 ## What is ChenBook?
 
@@ -16,8 +16,6 @@ ChenBook is designed to capture and organize insights, learnings, and discoverie
 
 - **[Music](/music/)**: Musical theory, history, artists, genres, and analysis
 - **[Coding](/coding/)**: Programming concepts, tutorials, best practices, and technical documentation
-- **[History](/history/)**: Historical events, figures, periods, and cultural significance
-- **[Science](/science/)**: Scientific discoveries, theories, and explanations across disciplines
 
 ### Content Structure
 
