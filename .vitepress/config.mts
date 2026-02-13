@@ -15,7 +15,8 @@ export default defineConfig({
     nav: [
       { text: 'Music', link: '/music/' },
       { text: 'Coding', link: '/coding/' },
-      { text: 'Miscellaneous', link: '/miscellaneous/' }
+      { text: 'Miscellaneous', link: '/miscellaneous/' },
+      { text: 'History', link: '/history/' }
     ],
 
     sidebar: createSidebar(),

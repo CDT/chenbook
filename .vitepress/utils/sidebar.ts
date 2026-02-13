@@ -3,7 +3,7 @@ import path from 'node:path'
 import type { DefaultTheme } from 'vitepress'
 
 const DOCS_ROOT = path.resolve(process.cwd())
-const SECTION_DIRS = ['music', 'coding', 'miscellaneous']
+const SECTION_DIRS = ['music', 'coding', 'miscellaneous', 'history']
 
 export function createSidebar(): DefaultTheme.Sidebar {
   const sidebar: DefaultTheme.Sidebar = {}
