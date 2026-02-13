@@ -18,5 +18,8 @@ features:
   - title: Miscellaneous
     link: /miscellaneous/
     details: Diverse topics, interesting ideas, random knowledge, and other fascinating subjects
+  - title: History
+    link: /history/
+    details: Key events, figures, and movements that have shaped our world
 ---
 
